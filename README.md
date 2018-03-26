@@ -1,5 +1,5 @@
 Repository:
-Download solution from following path and extract the zip file. 
+Download solution from following path and extract the zip file.Solution project Zip file is avialble in GIT Zip file.
 https://github.com/udayakumary/MazePath
 
 Environment:
